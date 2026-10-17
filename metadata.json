@@ -1,0 +1,6 @@
+{
+  "name": "WhisperCode - Temporary Real-Time Messaging",
+  "description": "Zero-login ephemeral real-time messaging with friends. Join via 6-character room codes or QR code. Messages self-destruct when sessions end.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
